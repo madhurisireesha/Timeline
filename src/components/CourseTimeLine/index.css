@@ -1,0 +1,14 @@
+.courseone{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.course11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.tagsl{
+    border:none;
+}
